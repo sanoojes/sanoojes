@@ -23,7 +23,7 @@
   </a>&nbsp;
    <a href="https://twitter.com/sanoojes">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>&nbsp;
+  </a>
 </p>
 
 <h2 align="center"><b>🗣️ Github Stats</b></h2>
