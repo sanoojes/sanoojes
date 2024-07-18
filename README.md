@@ -28,11 +28,16 @@
 
 <h2 align="center"><b>🗣️ Github Stats</b></h2>
 
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sanoojes&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10&border_color=303030" alt="Sanooj's GitHub stats" height="300" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanoojes&show_icons=true&layout=pie&theme=dark&border_radius=10&border_color=303030" alt="Sanooj's Top Langs" height="300" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanoojes&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanoojes&theme=dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanoojes&theme=dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanoojes&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanoojes&theme=dark&utcOffset=5.30" />
+</div>
+
 &nbsp;
+
 <h2 align="center"><b>🗣️ Github Streak</b></h2>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanoojes&theme=github-dark-blue&border_radius=10&card_width=500&background=0E0E0E&border=303030" alt="GitHub Streak" /></a>
@@ -50,4 +55,3 @@
 &nbsp;
 <h2 align="center">💖 Support 💖</h2>
 <p align = "center"><a href="https://www.buymeacoffee.com/sanoojes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p>
-
