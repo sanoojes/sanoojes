@@ -30,10 +30,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanoojes&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanoojes&theme=dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanoojes&theme=dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanoojes&theme=dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanoojes&theme=dark&utcOffset=5.30" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanoojes&theme=dark&border_color=303030&border_radius=4"  />
 </div>
 
 &nbsp;
