@@ -21,13 +21,13 @@
 
 <table width="100%" style="max-width: 580px; border-collapse: separate; border-spacing: 0; border: 1px solid #303030; border-radius: 14px; overflow: hidden; margin-bottom: 16px;">
 <tr>
-<td valign="center" style="padding: 12px 16px;">
+<td valign="middle" style="padding: 12px 16px;">
 <b>NASA Space Apps Challenge 2025 - 3rd Place</b><br />
 <sub>Amal Jyothi College of Engineering Autonomous</sub><br />
 <sub>Oct 2025</sub><br />
 <br /><a href="https://events.amaljyothi.ac.in/verify/qzh6qk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Verify%20Credential-10B981?style=flat-square&logo=checkmarx&logoColor=white" height="20" alt="Verify Credential" /></a>
 </td>
-<td width="133" align="center" align="center" style="padding: 0 12px 12px 12px; border-left: 1px solid #303030;">
+<td width="133" align="center" valign="middle" style="padding: 0 12px 12px 12px; border-left: 1px solid #303030;">
 <a href="https://events.amaljyothi.ac.in/verify/qzh6qk" target="_blank" rel="noopener noreferrer"><img src="./assets/thumbnails/nasa-space-apps-3rd-place.jpg" height="64" width="113" style="border-radius: 8px;" alt="NASA Space Apps Challenge 2025 - 3rd Place" /></a>
 </td>
 </tr>
@@ -35,12 +35,12 @@
 
 <table width="100%" style="max-width: 580px; border-collapse: separate; border-spacing: 0; border: 1px solid #303030; border-radius: 14px; overflow: hidden; margin-bottom: 16px;">
 <tr>
-<td valign="center" style="padding: 12px 16px;">
+<td valign="middle" style="padding: 12px 16px;">
 <b>HOGWARTS ETERNAL CTF - 1st Runner Up</b><br />
 <sub>Offenso Academy</sub><br />
 <sub>2025</sub>
 </td>
-<td width="133" align="center" align="center" style="padding: 0 12px 12px 12px; border-left: 1px solid #303030;">
+<td width="133" align="center" valign="middle" style="padding: 0 12px 12px 12px; border-left: 1px solid #303030;">
 <a href="https://documents.sanooj.uk/Hogwarts-Eternal-CTF.pdf" target="_blank" rel="noopener noreferrer"><img src="./assets/thumbnails/Hogwarts-Eternal-CTF.jpg" height="64" width="113" style="border-radius: 8px;" alt="HOGWARTS ETERNAL CTF - 1st Runner Up" /></a>
 </td>
 </tr>
