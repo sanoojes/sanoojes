@@ -1,3 +1,12 @@
+DEFAULT_CERT_BADGE = (
+    "https://img.shields.io/badge/View-Certificate-E11D48"
+    "?style=flat-square&logoColor=white"
+)
+DEFAULT_VERIFY_BADGE = (
+    "https://img.shields.io/badge/Verify%20Credential-10B981"
+    "?style=flat-square&logo=checkmarx&logoColor=white"
+)
+
 SKILLS = [
     {
         "title": "Languages",
@@ -65,7 +74,7 @@ CERTIFICATIONS = [
         "badge": "./assets/CEH_badge.png",
         "badge_height": 96,
         "badge_alt": "CEH v13 Badge",
-        "certificate_url": "https://documents.sanooj.uk/CEH.pdf",
+        "certificate_url": "https://sanooj.uk/certificate/ceh.pdf",
         "verify_url": "https://aspen.eccouncil.org/Verify",
         "cert_badge_url": "https://img.shields.io/badge/View-Certificate-E11D48?style=flat-square&logoColor=white",
         "verify_badge_url": "https://img.shields.io/badge/Aspen-Verify%20Credential-10B981?style=flat-square&logo=checkmarx&logoColor=white",
@@ -79,7 +88,7 @@ ACHIEVEMENTS = [
         "date": "Oct 2025",
         "image": "./assets/thumbnails/nasa-space-apps-3rd-place.jpg",
         "image_height": 64,
-        "certificate_url": "https://documents.sanooj.uk/nasa-space-apps-3rd-place.pdf",
+        "certificate_url": "https://sanooj.uk/certificate/nasa-space-apps-ajce.pdf",
         "verify_url": "https://events.amaljyothi.ac.in/verify/qzh6qk",
     },
     {
@@ -88,16 +97,17 @@ ACHIEVEMENTS = [
         "date": "2025",
         "image": "./assets/thumbnails/Hogwarts-Eternal-CTF.jpg",
         "image_height": 64,
-        "certificate_url": "https://documents.sanooj.uk/Hogwarts-Eternal-CTF.pdf",
+        "certificate_url": "https://sanooj.uk/certificate/hogwarts-eternal-ctf.pdf",
         "verify_url": "",
     },
 ]
 
 TEMPLATE_VARS = {
-    "NAME": "Sanooj Es",
+    "NAME": "Sanooj E Sanish",
     "BIO": "I'm a full-stack developer and ethical hacker (CEH). I write code in Typescript, Python, Rust and C, and I do penetration testing and random projects.",
     "GITHUB_USERNAME": "sanoojes",
     "WAKATIME_USERNAME": "23888",
     "DISCORD_ID": "821653196161679371",
+    "DISCORD_LINK": "https://sanooj.uk/discord",
     "KOFI_URL": "https://ko-fi.com/sanoojes",
 }
